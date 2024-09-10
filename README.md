@@ -1,7 +1,9 @@
 <h2 align="center">Hi✌, I'm Emma Valeria</h2>
 <h3 align="center">A passionate CS student</h3>
-<h4 align="center">I'm passionate about Full-Stack development</h4>
-<h4 align="center">I'm fond of learning new things, music and books</h4>
+<p align="center">
+I'm passionate about Full-Stack development.
+I'm fond of learning new things, music and books.
+</p>
 
 - 🔭 I’m currently working on school projects.
   
