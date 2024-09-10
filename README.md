@@ -1,14 +1,13 @@
-<h2 align="center">Hi, I'm Emma Valeria</h2>
-<h4 align="center">A passionate CS student</h4>
+<h2 align="center">Hi✌, I'm Emma Valeria</h2>
+<h3 align="center">A passionate CS student</h3>
+<h4 align="center">I'm passionate about Full-Stack development</h4>
+<h4 align="center">I'm fond of learning new things, music and books</h4>
 
-- 🔭 I’m currently working on school projects
+- 🔭 I’m currently working on school projects.
   
-- 👯 I’m looking to collaborate on IT projects
+- 👯 I’m looking to collaborate on IT projects.
   
-<h3 align="left">Connect with me:</h3>
-<p align="center">www.linkedin.com/in/valeria-medina-4b4848326</p>
-
-<h5 align="left">Languages and Tools:</h5>
+<h4 align="left">Languages and Tools:</h4>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
