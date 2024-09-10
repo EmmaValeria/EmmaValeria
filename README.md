@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Emma Valeria</h2>
-<h3 align="center">A passionate CS student</h3>
+<h4 align="center">A passionate CS student</h4>
 
 - 🔭 I’m currently working on school projects
   
